@@ -1,6 +1,5 @@
 # Forum Analysis
 
----
 
 
 This directory contains the dataset and annotation materials used in our forum analysis. The dataset consists of **2,740 posts** collected from three online discussion forums:
