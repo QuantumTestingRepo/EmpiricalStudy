@@ -10,7 +10,7 @@ the challenges and practical needs identified through our interviews and forum a
 ```text
 Literature-Review/
 ├── selected_papers.xlsx
-├── 30_keywords.pdf
+├── keywords.pdf
 └── README.md
 ```
 
@@ -21,7 +21,7 @@ Literature-Review/
 This file contains the bibliographic information (e.g., paper title, publication year, publication venue) of the **62 papers** included in the literature review.
 
 
-### `30_keywords.pdf`
+### `keywords.pdf`
 
 This file lists the **30 search keywords** used in the keyword-based search for 
 the literature review. 
