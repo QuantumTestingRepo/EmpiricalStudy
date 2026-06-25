@@ -1,6 +1,6 @@
 # Quantum Software Testing
 
----
+
 
 This repository contains experiments conducted in the paper *“Professionals’ Expectations on Quantum Software Testing: A Large-Scale Empirical Study.”*
 
