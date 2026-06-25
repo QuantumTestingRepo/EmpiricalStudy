@@ -2,7 +2,7 @@
 
 
 
-This repository contains experiments conducted in the paper *“Professionals’ Expectations on Quantum Software Testing: A Large-Scale Empirical Study.”*
+This repository contains materials and data analyzed in the paper *“Professionals’ Expectations on Quantum Software Testing: A Large-Scale Empirical Study.”*
 
 ## Abstract
 Quantum Software Testing (QST) has attracted increasing attention as quantum systems 
