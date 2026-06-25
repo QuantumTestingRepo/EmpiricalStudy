@@ -269,5 +269,3 @@ We classify the collected forum posts into four concepts according to the primar
 </tr>
 </tbody>
 </table>
-
-The percentages are calculated over all <strong>2,740</strong> analyzed forum posts. Each post is assigned to one concept according to its dominant discussion purpose.
