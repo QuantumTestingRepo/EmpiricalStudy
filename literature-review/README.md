@@ -1,6 +1,5 @@
 # Literature Review
 
----
 
 This folder contains materials used in the literature review of QST. The review includes **62 QST papers** and examines how existing testing techniques address
 the challenges and practical needs identified through our interviews and forum analysis.
