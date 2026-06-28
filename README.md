@@ -5,25 +5,11 @@
 This repository contains materials and data analyzed in the paper *“Professionals’ Expectations on Quantum Software Testing: A Large-Scale Empirical Study.”*
 
 ## Abstract
-Quantum Software Testing (QST) has attracted increasing attention as quantum systems 
-grow in complexity and quantum development practices continue to evolve.
-Recent studies in QST have proposed various techniques
-to assess and test the reliability of quantum systems, and have
-shown promising effectiveness. However, the performance of
-QST in practice is tightly coupled and constrained by various
-factors (e.g., information availability, the properties of execution
-backends). It is therefore of high importance to examine whether
-these QST tools have (1) met the demands faced by the quantum
-computing community and (2) aligned with the current practice
-of quantum system development.
-To answer these, this paper presents the first large-scale empirical study in QST, composed of two stages: (1) a mixed-methods
-study, containing qualitative interviews with 8 professionals in
-quantum computing and quantitative forum analysis on 2,740
-discussion posts, and (2) a literature review of 62 QST papers
-to analyze whether the proposed tools address the identified
-challenges from the first stage.
+Quantum Software Testing (QST) has attracted increasing attention as quantum systems grow in complexity and quantum development practices continue to evolve. Recent studies in QST have proposed various techniques to assess and test the reliability of quantum systems, and have shown promising effectiveness. However, the performance of QST in practice is tightly coupled and constrained by various factors (e.g., information availability, the properties of execution backends). It is therefore of high importance to examine whether these QST tools have (1) met the demands faced by the quantum computing community and (2) aligned with the current practice of quantum system development.
 
-## Repository Strcutrue
+To answer these, this paper presents the first large-scale empirical study in QST, composed of two stages: (1) a mixed-methods study containing qualitative interviews with eight quantum computing professionals and quantitative analysis of 2,740 forum posts, and (2) a literature review of 62 QST papers to examine how existing tools address the challenges identified in Stage 1. We derive five triangulated findings and four future directions. For example, limited oracle information in practice motivates broader use of derived and implicit oracles for QST tools; restricted access to program specifications highlights the need for automatic input-validity checking; and hardware-aware testing requires systematic error mitigation and broader consideration of practical hardware limitations.
+
+## Repository Structure
 
 
 
@@ -32,6 +18,7 @@ EmpiricalStudy/
 ├── interview-study/
 │   ├── interview_guide.pdf
 │   ├── participant_information.pdf
+│   ├── representative_quotations.xlsx
 │   └── README.md
 
 ├── forum-analysis/
@@ -48,8 +35,8 @@ EmpiricalStudy/
 └── README.md
 
 ```
-This paper presents a two-stage large-scale empirical study: stage 1 contains a mixed-methods study, 
-with qualitative interview study and quantitative forum analysis. 
+This paper presents a two-stage large-scale empirical study: Stage 1 contains a mixed-methods study, 
+with a qualitative interview study and quantitative forum analysis. 
 Stage 2 contains a literature review of 62 papers in a challenge-driven, 
 practice-oriented perspective.
 * `interview-study/`: Materials related to the professional interviews (RQ1).
