@@ -1,7 +1,6 @@
 # Interview Analysis
 
 
-
 This folder contains the interview materials used in our empirical study on **Quantum Software Testing (QST)**.
 
 ## Directory Structure
@@ -9,6 +8,7 @@ This folder contains the interview materials used in our empirical study on **Qu
 ```
 ├── interview_guide.pdf
 ├── participant_information.pdf
+├── representative_quotations.xlsx
 └── README.md
 ```
 
@@ -26,3 +26,8 @@ Basic information describing the anonymized participants and the interview proce
 To protect participant privacy, all personally identifiable information has been removed.
 Participants are referred to only by anonymized identifiers (e.g., P1).
 
+### `representative_quotations.xlsx`
+A list of representative, numbered interview quotations organized by QST topic and triangulated finding. This file serves two purposes:
+
+1. To provide traceable interview evidence supporting the triangulated findings reported in the paper.
+2. To supplement interview observations summarized in the paper without full quotations due to space limitations. 
